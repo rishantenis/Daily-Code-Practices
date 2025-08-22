@@ -16,7 +16,7 @@
 
 
 
-Daily Practices python in data science
+Daily Practices python, data science
 
 
 
