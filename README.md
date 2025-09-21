@@ -17,7 +17,7 @@
 
 
 
-# Daily Practices python, data science
+# Daily Practices python and data science  
 
 
 
